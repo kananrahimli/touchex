@@ -11,8 +11,8 @@
 
     <div class="text-container d-flex justify-content-center  ">
       <div class="d-flex justify-content-center align-items-center flex-column">
-        <h3>Tezliklə</h3>
-        <p>Lorem Ipsum is simply dummy</p>
+        <h3>Coming Soon...</h3>
+        <p>Cargo & Freight Company</p>
         <img src="../assets/svg/daire.svg" alt="" />
       </div>
       
