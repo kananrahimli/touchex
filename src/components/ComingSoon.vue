@@ -13,7 +13,7 @@
       <div class="d-flex justify-content-center align-items-center flex-column">
         <h3>Coming Soon...</h3>
         <p>Cargo & Freight Company</p>
-        <img src="../assets/svg/daire.svg" alt="" />
+        <img src="../assets/svg/Ellipse.png" alt="" />
       </div>
       
     </div>
